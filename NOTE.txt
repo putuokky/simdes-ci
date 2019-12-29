@@ -1,0 +1,17 @@
+login user
+- admin
+username : admin
+password : admin
+
+- pegawai
+username : pegawai
+password : pegawai
+
+- kepala lurah
+username : lurah
+password : lurah
+
+Link : http://localhost/simdes/
+---------------------------------------------------
+Hak Cipta I Putu Okky Maheswara (130030191)
+Tahun 2017
